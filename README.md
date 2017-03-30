@@ -1,2 +1,2 @@
 # QuoraDesign
-Quora FE replicated - CSS
+An attempt to replicate with HTML and CSS, the Quora Landing page.
